@@ -8,6 +8,10 @@
 
 [Read the details in my blog (in Chinese) | 中文教程](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
+### 默认编译
+
+- Newifi-D2固件，酸酸乳Plus+、Passwall、SmartDNS、PPTP服务端、广告屏蔽大师Plus+、AdGuardHome、解锁网易云灰色歌曲、MWAN3分流助手、Uhttpd
+
 ## 使用方法
 
 - 单击[使用此模板](https://github.com/P3TERX/Actions-OpenWrt/generate)按钮创建一个新的存储库。
@@ -22,7 +26,9 @@
 在你的存储库介绍中添加一些你构建的固件的元信息（比如固件体系结构和安装的软件包），这样可以节省其他人的时间。
 
 ## 致谢
-
+- [P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)
+- [tty228微信推送](https://github.com/tty228/luci-app-serverchan)
+- [kenzok8](https://github.com/kenzok8)
 - [Microsoft](https://www.microsoft.com)
 - [Microsoft Azure](https://azure.microsoft.com)
 - [GitHub](https://github.com)
@@ -36,7 +42,3 @@
 - [Cowtransfer](https://cowtransfer.com)
 - [WeTransfer](https://wetransfer.com/)
 - [Mikubill/transfer](https://github.com/Mikubill/transfer)
-
-## License
-
-[MIT](https://github.com/P3TERX/Actions-OpenWrt/blob/master/LICENSE) © P3TERX
