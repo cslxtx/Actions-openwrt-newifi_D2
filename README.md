@@ -11,7 +11,7 @@
 
 ## 使用方法
 
-- 单击[使用此模板](https://github.com/P3TERX/Actions-OpenWrt/generate)按钮创建一个新的存储库。
+- 单击[使用此模板](https://github.com/cslxtx/Actions-Openwrt_Newifi_D2/generate)按钮创建一个新的存储库。
 - 使用[Lean's OpenWrt](https://github.com/coolsnowwolf/lede)源代码生成.config文件。 （您可以通过工作流文件中的环境变量来更改它。）
 - 将`.config`文件上传到GitHub仓库中，编译会自动开始。进度可以在Actions页面上查看。
 - 编译完成后，点击Actions页面右上角的`Artifacts`按钮以下载固件压缩包文件。
