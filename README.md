@@ -10,7 +10,7 @@
 
 - Newifi-D2固件，酸酸乳Plus+、Passwall、SmartDNS、PPTP服务端、广告屏蔽大师Plus+、AdGuardHome、解锁网易云灰色歌曲、MWAN3分流助手、Uhttpd
 - 用户名：root 密码：password 管理IP：192.168.99.1
-- 如需开启SSH的选择自定义编译，请单击[使用此模板](https://github.com/cslxtx/Actions-Openwrt_Newifi_D2/generate)
+- 如需开启SSH的选择插件自定义编译，请单击[使用此模板](https://github.com/cslxtx/Actions-Openwrt_Newifi_D2/generate)
 
 ## 使用方法
 
