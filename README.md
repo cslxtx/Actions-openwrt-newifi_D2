@@ -2,12 +2,15 @@
 
 使用 GitHub Actions 云编译Openwrt固件
 
+感谢[P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)提供的GitHub Actions云编译代码
+
 [Read the details in my blog (in Chinese) | 中文教程](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
 ### 默认编译
 
 - Newifi-D2固件，酸酸乳Plus+、Passwall、SmartDNS、PPTP服务端、广告屏蔽大师Plus+、AdGuardHome、解锁网易云灰色歌曲、MWAN3分流助手、Uhttpd
 - 用户名：root 密码：password 管理IP：192.168.99.1
+- 如需开启SSH的选择自定义编译，请单击[使用此模板](https://github.com/cslxtx/Actions-Openwrt_Newifi_D2/generate)
 
 ## 使用方法
 
