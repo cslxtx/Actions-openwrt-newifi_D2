@@ -1,32 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@cslxtx 
-P3TERX
-/
-Actions-OpenWrt
-Template
-65
-2.2k3.1k
-Code
-Issues
-24
-Pull requests
-Security
-Insights
-Actions-OpenWrt/.github/workflows/build-openwrt.yml
-@P3TERX
-P3TERX master
-Latest commit d59134a on 23 Jul
- History
- 1 contributor
-154 lines (134 sloc)  4.67 KB
-  
 #
 # Copyright (c) 2019-2020 P3TERX <https://p3terx.com>
 #
@@ -173,15 +144,3 @@ jobs:
         curl -fsSL git.io/file-transfer | sh
         ./transfer wet -s -p 16 --no-progress ${FIRMWARE} 2>&1 | tee wetransfer.log
         echo "::warning file=wetransfer.com::$(cat wetransfer.log | grep https)"
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
